@@ -1,6 +1,5 @@
 <template>
   <div>
-    <InputB />
     <div class="container">
       <div class="row">
         <div class="card shadow mb-4">

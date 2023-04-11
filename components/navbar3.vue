@@ -22,7 +22,10 @@
               >
             </li>
             <li class="nav-item">
-              <NuxtLink class="nav-link active" aria-current="page" to="/inputB"
+              <NuxtLink
+                class="nav-link active"
+                aria-current="page"
+                to="/obat/inputB"
                 >obat</NuxtLink
               >
             </li>
@@ -47,7 +50,10 @@
               </ul>
             </li> -->
             <li class="nav-item">
-              <NuxtLink class="nav-link active" aria-current="page" to="/resep"
+              <NuxtLink
+                class="nav-link active"
+                aria-current="page"
+                to="/resep/inputR"
                 >resep</NuxtLink
               >
             </li>
